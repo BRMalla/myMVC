@@ -1,0 +1,15 @@
+.navbar-default
+{
+	background-color:black;
+}
+.carousel
+{
+	margin-top:-22px;
+}
+.navbar-collapse
+{
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size:20px;
+	letter-spacing:5px;
+}
